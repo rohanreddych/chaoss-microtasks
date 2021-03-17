@@ -12,9 +12,9 @@ cd ui
 yarn install yarn serve
 ```
 
-![photos/https://github.com/rohanreddych/chaoss-microtasks/blob/main/photos/4ui.png]
+![photos](https://github.com/rohanreddych/chaoss-microtasks/blob/main/photos/4ui.png]
 
-![photos/4server.png]
+![photos](4server.png]
 
 
-![photos/4.png]
+![photos](4.png]
