@@ -1,2 +1,3 @@
-# chaoss-microtasks
-chaoss gsoc 2021 microtasks
+# CHAOSS Grimoirelab Microtasks
+
+### Contributions
