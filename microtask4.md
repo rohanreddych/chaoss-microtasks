@@ -12,6 +12,9 @@ cd ui
 yarn install yarn serve
 ```
 
+**After applying migrations and creating admin user, the errors have been resolved and I could perform operations using sortinghat UI**
+
+
 ![photos](https://github.com/rohanreddych/chaoss-microtasks/blob/main/photos/4ui.png)
 
 ![photos](photos/4server.png)
