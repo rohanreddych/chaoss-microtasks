@@ -101,4 +101,4 @@ print(res.text)
     {"data":{"addIdentity":{"uuid":"032e3f8110875bdf295780edf39bad74df1b0f79"}}}
 
 
-![Screenshot%20from%202021-03-31%2016-20-56.png](7after.png)
+![7after.png](photos/7after.png)
