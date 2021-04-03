@@ -3,13 +3,18 @@
 ```
 git clone https://github.com/chaoss/grimoirelab-sortinghat/
 git switch muggle
-cd grimoire-lab-sortinghat
-virtualenv $location (and activate this)
+cd grimoirelab-sortinghat
+python3 -m venv my_venv
+source my_venv/bin/activate
 
-pip install -r requirements.txt
+poetry install
+```
+For starting the vue app
 
+```
 cd ui
-yarn install yarn serve
+yarn install 
+yarn serve
 ```
 
 **After applying migrations and creating admin user, the errors have been resolved and I could perform operations using sortinghat UI**
