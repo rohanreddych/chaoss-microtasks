@@ -8,6 +8,8 @@ python3 -m venv my_venv
 source my_venv/bin/activate
 
 poetry install
+
+python3 manage.py runserver --settings=config.settings.devel
 ```
 For starting the vue app
 
