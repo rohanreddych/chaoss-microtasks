@@ -1,4 +1,4 @@
-# Create a saample profile with different identities using the Sortinghat UI
+# Create a sample profile with different identities using the Sortinghat UI
 
 After setting up the developer environment for sortinghat muggle branch and starting the Vue app and Django server. 
 
